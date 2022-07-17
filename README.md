@@ -6,3 +6,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|392| Is Subsequence | Python | EASY |
