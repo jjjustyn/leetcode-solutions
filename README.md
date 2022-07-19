@@ -11,3 +11,4 @@ LeetCode
 |205| Isomorphic Strings | Python | EASY |7/17/2022|
 |206| Reversed Linked List | Python | EASY |7/17/2022|
 |876| Middle of the Linked List | Python | EASY | 7/18/2022 |
+|142| Linked List Cycle II | Python | MEDIUM | 7/18/2022 |
