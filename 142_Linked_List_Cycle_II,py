@@ -1,0 +1,24 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        #declare hashable set
+        s = set()
+        #create copy of head listnode pointer 
+        dum_head = head
+        #while its not null iterate through LL
+        while(dum_head):
+            #if we've already seen it, return. We've found the cycle
+            if dum_head in s:
+                return dum_head
+            else:
+                #if its new add it to set and keep iterating
+                s.add(dum_head)
+                dum_head = dum_head.next
+        
+        #if theres no cycle return null
+        return None
