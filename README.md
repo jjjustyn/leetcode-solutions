@@ -16,3 +16,5 @@ LeetCode
 |409| Longest Palindrome | Python | EASY | 7/19/2022 |
 |102| Binary Tree Level Order Traversal | Python | MEDIUM | 7/20/2022 |
 |589| N-ary Tree Preorder Traversal | Python | EASY | 7/20/2022 |
+|278| First Bad Version | Python | EASY | 7/21/2022 |
+|704| Binary Search | Python | EASY | 7/21/2022 |
