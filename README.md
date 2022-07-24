@@ -18,3 +18,4 @@ LeetCode
 |589| N-ary Tree Preorder Traversal | Python | EASY | 7/20/2022 |
 |278| First Bad Version | Python | EASY | 7/21/2022 |
 |704| Binary Search | Python | EASY | 7/21/2022 |
+|1059| All Paths From Source Lead to Destination | Python | MEDIUM | 7/22/2022 |
