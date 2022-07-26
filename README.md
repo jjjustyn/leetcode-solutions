@@ -20,3 +20,4 @@ LeetCode
 |704| Binary Search | Python | EASY | 7/21/2022 |
 |1059| All Paths From Source Lead to Destination | Python | MEDIUM | 7/22/2022 |
 |202| Happy Number | Python | EASY | 7/23/2022 |
+|34| Find First and Last Position of Element in Sorted Array | Python | MEDIUM | 7/24/2022 |
